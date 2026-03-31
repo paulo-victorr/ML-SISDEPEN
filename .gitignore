@@ -1,5 +1,4 @@
 # Dados
-*.csv
 *.parquet
 *.db
 *.sqlite
